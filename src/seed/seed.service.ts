@@ -5,7 +5,7 @@ import { InjectModel } from '@nestjs/mongoose';
 import { Pokemon } from 'src/pokemon/entities/pokemon.entity';
 import { Model } from 'mongoose';
 import { AxiosAdapter } from 'src/common/adapters/axios.adapter';
-
+//commiewnr
 @Injectable()
 export class SeedService {
   constructor(
